@@ -20,8 +20,10 @@ fun age(){
 }
 fun weight() {
     var weight = 70
+    val weigh ="kg"
     weight -= 2
-    println(weight)
+    print(weight)
+    println(weigh)
 }
 fun citizen(){
     val kenyan = true
